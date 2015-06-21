@@ -1,0 +1,4 @@
+org\dmitriy\java\web\model\Good.class
+org\dmitriy\java\web\service\GoodServiceImpl.class
+org\dmitriy\java\web\controller\GoodController.class
+org\dmitriy\java\web\service\GoodService.class
